@@ -1,0 +1,1 @@
+Result{submission=Submission{inputNumber=28, userName='Rachel'}, message='FizzBuzz!'}
